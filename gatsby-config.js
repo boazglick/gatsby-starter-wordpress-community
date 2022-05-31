@@ -25,7 +25,7 @@ module.exports = {
         //https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-wordpress
         baseUrl: "alankaler.ussl.info",
         protocol: "https",
-        hostingWPCOM: true,
+        hostingWPCOM: false,
         useACF: false,
         auth: {
           //Create a file named .env in root folder of your project
